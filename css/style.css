@@ -704,7 +704,7 @@ ol {
   }
   .main-menu {
     position: absolute;
-    background: #efefef;
+    background: #ffcccc;
     width: 100%;
     z-index: 999;
     left: 0;
